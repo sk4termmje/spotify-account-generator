@@ -46,4 +46,3 @@ print("")
 print(colored(" Discord / Support Server: https://discord.gg/JYvpJ6dh5D ","red"))
 
 os.system("start \"\" https://deeptools.sellix.io")
-time.sleep(10000000000.03)
